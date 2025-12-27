@@ -6,8 +6,7 @@ I am a Computer Science student focused on writing clean, scalable code. My repo
 
 🧠 Problem Solving: Actively solving problems on LeetCode & CodeForces.
 
-🔭 - 🔭 Currently Working on: [MediTrust](https://github.com/YourUsername/MediTrust)
-
+🔭 Currently Working on: MediTrust – A Counterfeit Drug Detector & Interaction Checker.
 🌱 Currently Learning: [New Tech Docker].
 
 
