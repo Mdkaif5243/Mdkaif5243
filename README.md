@@ -3,7 +3,9 @@
 I am a Computer Science student focused on writing clean, scalable code. My repositories feature real-world full-stack applications and optimized DSA solutions.
 
 🛠 Tech Stack: Java, C++, JavaScript, React, Node.js, SQL.
+
 🧠 Problem Solving: Actively solving problems on LeetCode & CodeForces.
+
 🔭 Currently Working on: MediTrust – A Counterfeit Drug Detector & Interaction Checker.
 
 🌱 Currently Learning: [New Tech Docker].
