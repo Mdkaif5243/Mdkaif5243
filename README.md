@@ -1,6 +1,14 @@
 # 💫 Hi 👋,I'm MD Kaif 🚀 Full Stack Developer | DSA Enthusiast
 
-I’m a Computer Science student with a strong interest in Data Structures & Algorithms, problem solving, and Full Stack Development. I enjoy breaking down complex problems into simple, efficient solutions and continuously improving my logical and coding skills.<br><br>I actively practice DSA and competitive programming, focusing on writing clean, optimized, and scalable code. Alongside this, I’m exploring full-stack development, working with both frontend and backend technologies to build practical, real-world applications.<br><br>I believe in consistent learning, hands-on projects, and strong fundamentals. I’m always eager to learn new technologies, collaborate with like-minded developers, and take on challenges that help me grow as a software engineer.
+I am a Computer Science student focused on writing clean, scalable code. My repositories feature real-world full-stack applications and optimized DSA solutions.
+
+🛠 Tech Stack: Java, C++, JavaScript, React, Node.js, SQL.
+
+🧠 Problem Solving: Actively solving problems on LeetCode & CodeForces.
+
+🔭 - 🔭 Currently Working on: [MediTrust](https://github.com/YourUsername/MediTrust)
+
+🌱 Currently Learning: [New Tech Docker].
 
 
 ## 🌐 Socials:
