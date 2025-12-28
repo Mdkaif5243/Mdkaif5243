@@ -1,4 +1,4 @@
-💫 Hi 👋, I'm MD Kaif | Research Engineer & Full-Stack Developer | Optimizing AgTech Logistics by 65% | DSA Enthusiast
+💫 Hi 👋, I'm MD Kaif
 
 I am a Computer Science student focused on writing clean, scalable code. My repositories feature real-world full-stack applications and optimized DSA solutions.
 
